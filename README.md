@@ -10,13 +10,16 @@ Summarization Algorithm: The code utilizes an algorithm specifically designed fo
 Customizable Summary Length: You can easily adjust the length of the summary according to your requirements.
 Easy-to-Use Interface: The code provides a user-friendly interface for inputting the text and obtaining the summarized output.
 
+
 Contributing
 
 Contributions to this project are welcome. Feel free to submit bug reports, feature requests, or pull requests. Let's work together to enhance the functionality of this text summarization code!
 
+
 License
 
 This project is licensed under the MIT License.
+
 
 Acknowledgments
 
